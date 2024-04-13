@@ -8,6 +8,7 @@ public class SiteuserApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SiteuserApplication.class, args);
+		//테스트
 	}
 
 }
